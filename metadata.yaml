@@ -1,0 +1,33 @@
+_repo: The-Westcotes_10548
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Quiller-Couch, Arthur Thomas
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    - Quiller-Couch, Sir Arthur Thomas
+    - Q
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Single women -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Prisoners and prisons, British -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Westcotes
+url: http://www.gutenberg.org/ebooks/10548
